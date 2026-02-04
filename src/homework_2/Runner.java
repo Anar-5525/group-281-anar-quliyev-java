@@ -7,8 +7,7 @@ public class Runner {
 		
 		Student myStudent = new Student("Анна", 19, 4,8);
 
-		syso
-		
+	
 		myStudent.printInfo();
 	}
 }
