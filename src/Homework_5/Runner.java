@@ -5,7 +5,7 @@ public class Runner {
 	public static void main(String[] args) {
 		
 //		№1
-		
+//		
 //		int sumOfgreats = 0;
 //		int numberOfFive = 0;
 //		
@@ -25,19 +25,27 @@ public class Runner {
 //		
 //		 System.out.println(Math.round(numberOfFive / 20));
 //		 System.out.println("Количество пятёрок: " + numberOfFive);
-		 
+//		 
 //		 №2
-		 
-			double [] temperatures = {18.4, 19.7, 17.2, 20.9, 16.8, 21.3, 18.1};
+//		 
+//			double [] temperatures = {18.4, 19.7, 17.2, 20.9, 16.8, 21.3, 18.1};
+//			
+//			System.out.println("Температура за неделю:");
+//			
+//			int theHotest = 100;
+//			int theHoldest = -100;
+//			
+//			for(double temperature: temperatures) {
+//				Math.round(temperature);
+//				System.out.println("День: " + temperatures + " → " + temperature);
+//			}
 			
-			System.out.println("Температура за неделю:");
+//			№6
 			
-			int theHotest = 100;
-			int theHoldest = -100;
+			for(int i = 1; i < 12; i++) {
+				System.out.println(Math.pow(Math.random() * 19 + 1, 2));
+			} 
 			
-			for(double temperature: temperatures) {
-				Math.round(temperature);
-				System.out.println("День: " + temperatures + " → " + temperature);
-			}
+			
 	}
 }

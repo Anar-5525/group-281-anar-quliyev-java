@@ -16,6 +16,6 @@ public class Runner {
 			Math.round(price);
 		}
 		
-		System.out.println("Игрушка: " + price + "  после округления: " + sumOfprices);
+		System.out.println("Игрушка: " + prices + "  после округления: " + sumOfprices);
 	}
 }
