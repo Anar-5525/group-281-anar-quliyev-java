@@ -4,22 +4,22 @@ public class Classwork_1 {
 		
 		// 1
 		
-		int age = 14
+		int age = 14;
 				
-		if (age)
+		if (age);
 		
 		
 		// 10
 		
-		int grade = 5;
+		int grad = 5;
 
-		if (grade == 5) {
+		if (grad == 5) {
 		    System.out.println("Отлично");
-		} else if (grade == 5) {
+		} else if (grad == 5) {
 		    System.out.println("Хорошо" );
-		} else if (grade == 5) {
+		} else if (grad == 5) {
 		    System.out.println("Удовлетворительно");
-		} else if (grade == 5) {
+		} else if (grad == 5) {
 		    System.out.println("Удовлетворительно");
 		} else{
 		    System.out.println("Неудовлетворительно");
